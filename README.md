@@ -16,7 +16,6 @@
 	<a href="https://linkedin.com/in/andremonteiro1996" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andremonteiro1996" height="30" width="40"/></a>
 	<a href="https://www.behance.net/andremonteiro1996" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="andremonteiro1996" height="30" width="40"/></a>
 </p>
-
 <h3 align="left">Linguagens de Programação</h3>
 <p align="left">
 	<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -33,7 +32,9 @@
 </p>
 <h3 align="left">Ferramentas</h3>
 <p align="left">
-	<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="git" width="40" height="40"/></a>
+	<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a>
+	<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitkraken" width="40" height="40"/></a>
 	<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 	<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+	<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="40" height="40"/></a>
 </p>
