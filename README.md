@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou o André!</h2>
+<h2 align="left" style="text-decoration: none">Olá, eu sou o André!</h2>
 <h3 align="center">Estudante de Informática e Fotógrafo :)</h3>
 
 - 🔭 De momento estou a trabalhar em **Discord.js Bot**
