@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andremonteiro1996&label=Profile%20views&color=2983d1&style=flat" alt="andremonteiro1996" /> </p>
 
+- 🔭 De momento estou a trabalhar em **Discord.js Bot**
+
 - 🌱 De momento estou a aprender **NodeJS and Angular**
 
 - 👨‍💻 Todos os meus projectos estão disponíveis em [https://www.behance.net/andremonteiro1996](https://www.behance.net/andremonteiro1996)
