@@ -5,7 +5,7 @@
 
 - 🌱 De momento estou a aprender **NodeJS and Angular**
 
-- 👨‍💻 Todos os meus projectos estão disponíveis em [https://www.behance.net/andremonteiro1996](https://www.behance.net/andremonteiro1996)
+- 👨‍💻 Todos os meus projectos estão disponíveis em [https://behance.net/andremonteiro1996](https://behance.net/andremonteiro1996)
 
 - 👨‍💻 ou em [https://github.com/andremonteiro1996/](https://github.com/andremonteiro1996/)
 
