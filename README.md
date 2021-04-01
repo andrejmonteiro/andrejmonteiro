@@ -1,5 +1,11 @@
 <h2 align="left" style="text-decoration: none">Olá, eu sou o André!</h2>
-<h3 align="center">Estudante de Informática e Fotógrafo :)</h3>
+
+<h3 align="left">Estudante de Informática e Fotógrafo :)</h3>
+
+<p>
+	Tenho 24 anos, sou estudante de Informática e o meu hobby é fotografia. De Coimbra, Portugal, sou curioso e gosto de saber como as coisas funcionam, apesar de ser preguiçoso nas minhas pesquisas 😅.<br>
+	Tenho experiência em Front-End (HTML, CSS, JS e PHP), e de momento estou a aprender a fazer apis em Back-End(Node.JS/Express).
+</p>
 
 - 🔭 De momento estou a trabalhar em **Discord.js Bot**
 
