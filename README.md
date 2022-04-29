@@ -5,8 +5,8 @@
 const eu = {
 	'Pronomes': 'André', 'Monteiro',
 	'SobreMim': ['Estudante', 'Programador', 'Fotógrafo/Vídeografo', 'Gamer'],
-	'Contacto': 'rewindfotografiaevideo"at"gmail.com',
-	'Idiomas': ['Português', 'Inglês', 'Espanhol', 'Japonês'],
+	'Contacto': 'rewindfotografiaevideo[at]gmail.com',
+	'Idiomas': ['Português', 'Inglês'],
 	'Projetos': ['Discord Bot', 'Telegram Bot'],
 	'FrontEnd': ['HTML', 'CSS', 'JavaScript', 'PHP'],
 	'BackEnd': ['NodeJS'],
