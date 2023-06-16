@@ -2,7 +2,7 @@
 <h3 align="center">Smol time dev, aspiring software engineer (prayge) based in Portugal 🏴‍☠️.</h3>
 
 - 🔭 I’m currently working on **Twitch-Tools**
-- 🌱 I’m currently learning **Javascript Frameworks**
+- 🌱 I’m currently learning **Javascript Frameworks**, **C#**
 - 👨‍💻 All of my projects are available at [https://behance.net/andrejmonteiro](https://behance.net/andrejmonteiro)
 - 💬 Ask me about **Vue, Node.JS**
 
